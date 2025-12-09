@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - I'm Turboporro from Spain 🇪🇸 a.k.a Turbo
 - I program from time to time for fun ✨
 - I study Administration of Computer Systems and Networks 🖥️
-- Currently learning nothing <img src="https://preview.redd.it/the-original-image-of-the-monkey-thinking-meme-v0-vewwqeyihbaf1.jpeg?auto=webp&s=1725d1668108807ce86c5110b426d3cfe19ba42e" alt="emoji" width="60" height="60">
+- Currently learning nothing <img src="https://preview.redd.it/the-original-image-of-the-monkey-thinking-meme-v0-vewwqeyihbaf1.jpeg?auto=webp&s=1725d1668108807ce86c5110b426d3cfe19ba42e" alt="emoji" width="30" height="30">
 
 <img src="https://i.redd.it/a9uxrzegre041.jpg" alt="fennec" width="100">
