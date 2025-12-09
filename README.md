@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Image](https://i.redd.it/a9uxrzegre041.jpg)
-
+<img src="https://i.redd.it/a9uxrzegre041.jpg" alt="fennec" width="300">
