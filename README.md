@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - I'm Turboporro from Spain 🇪🇸 a.k.a Turbo
 - I program from time to time for fun ✨
-- I study Administration of Computer Systems and Networks 🖥️
+- Studying Administration of Computer Systems and Networks 🖥️
 - Currently learning nothing 📉
